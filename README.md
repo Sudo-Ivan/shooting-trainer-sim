@@ -9,7 +9,3 @@ Allow for integrations of laser ammo and tracking devices.
 ### How to run
 
 WIP
-
-### How to Contribute
-
-Read the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information.
