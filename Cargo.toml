@@ -1,0 +1,12 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "core",
+]
+
+[profile.dev]
+panic = 'abort'
+
+[profile.release]
+panic = 'abort'
