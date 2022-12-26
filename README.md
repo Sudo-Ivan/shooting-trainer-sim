@@ -2,14 +2,26 @@
 
 # shooting-trainer-sim
 
-## Rust based Shooting Training Simulator
+A Rust-based shooting training simulator using the Bevy Engine
 
-This is a simple shooting training simulator written in Rust and using Bevy Engine.
+## Overview
 
-The goal of this simulator is to help train shooting skills and be completely customizable and free to use.
+The purpose of this shooting training simulator is to help users improve their shooting skills in a variety of scenarios. I want it to be completely customizable and free to use, and supports integrations with laser ammo and tracking devices.
 
-Allow for integrations of laser ammo and tracking devices.
+Some of the ideas I have:
 
-### How to run
+    Practice with randomized shooting scenarios
+    Customize the simulator to fit your specific training needs
+    Integrate with external devices for more realistic training
 
-WIP
+## Contributing
+
+I greatly welcome contributions to the shooting-trainer-sim project!
+
+More info will be available on how to contribute and a project board will be made soon.
+
+## License
+
+The shooting-trainer-sim project is released under the MIT License.
+
+I hope this helps! Let me know if you have any questions.
